@@ -117,9 +117,7 @@ public class Main {
         System.out.println("-".repeat(30));
     }
     
-    /**
-     * Manage doctors menu
-     */
+    
     private static void manageDoctors() {
         while (true) {
             displayDoctorsMenu();
